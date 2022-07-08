@@ -1,0 +1,22 @@
+.card {
+    background-color: rgb(64, 184, 17);
+    border-radius: 10px;
+    padding: 0 20px;
+}
+
+.card-2 {
+    background-color: brown;
+    border-radius: 10px;
+    padding: 0 20px;
+
+}
+
+.card-3 {
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 0 20px;
+}
+
+.img {
+    border-radius: 10px;
+}

@@ -1,0 +1,13 @@
+.btn {
+    background: black;
+    padding: 10px 50px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
